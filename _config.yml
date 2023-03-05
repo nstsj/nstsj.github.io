@@ -1,5 +1,16 @@
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: green
+  
+
 theme: jekyll-theme-minimal
 
 title: Welcome to my blog about data, language and self
-
 description: Feel free to bookmark this to keep an eye on my project updates
